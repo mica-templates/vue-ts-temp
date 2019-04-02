@@ -1,2 +1,2 @@
-# vue-ts-temp
+# {{projectName}}
 基于vue和typescript的模板
